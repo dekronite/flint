@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/github/forks/dekronite/flint?color=64748b&labelColor=1f2937&style=for-the-badge">
 <img src="https://img.shields.io/github/issues/dekronite/flint?color=ef4444&labelColor=1f2937&style=for-the-badge">
 <img src="https://img.shields.io/github/issues-pr/dekronite/flint?color=8b5cf6&labelColor=1f2937&style=for-the-badge">
-<img src="https://img.shields.io/github/license/dekronite/flint?color=22c55e&labelColor=1f2937&style=for-the-badge">
 <br>
 
 <img src="images/flint.png" alt="Flint Editor" width="300">
