@@ -32,5 +32,5 @@
 (instead of making this look cool, i should've actually coded smth)
 ## Contact
 - (looking for contributors)
-- Discord: 5a4n
+- Discord: 5a4n or https://discord.gg/WUp6Z7eZa
 - GitHub Issues for bugs and feature requests
